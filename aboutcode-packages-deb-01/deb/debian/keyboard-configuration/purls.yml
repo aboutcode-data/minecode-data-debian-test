@@ -1,0 +1,4 @@
+- pkg:deb/debian/keyboard-configuration@1.205?arch=all
+- pkg:deb/debian/keyboard-configuration@1.221?arch=all
+- pkg:deb/debian/keyboard-configuration@1.240?arch=all
+- pkg:deb/debian/keyboard-configuration@1.242?arch=all

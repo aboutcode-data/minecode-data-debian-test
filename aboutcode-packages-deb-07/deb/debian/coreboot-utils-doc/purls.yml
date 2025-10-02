@@ -1,0 +1,2 @@
+- pkg:deb/debian/coreboot-utils-doc@24.12%2Bdfsg-2?arch=all
+- pkg:deb/debian/coreboot-utils-doc@4.15~dfsg-3?arch=all

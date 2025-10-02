@@ -1,0 +1,4 @@
+- pkg:deb/debian/console-setup-mini@1.205?arch=all
+- pkg:deb/debian/console-setup-mini@1.221?arch=all
+- pkg:deb/debian/console-setup-mini@1.240?arch=all
+- pkg:deb/debian/console-setup-mini@1.242?arch=all
