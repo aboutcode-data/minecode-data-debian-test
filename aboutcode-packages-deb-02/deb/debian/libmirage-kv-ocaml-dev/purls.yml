@@ -1,0 +1,17 @@
+- pkg:deb/debian/libmirage-kv-ocaml-dev@6.1.1-2%2Bb7?arch=amd64
+- pkg:deb/debian/libmirage-kv-ocaml-dev@6.1.1-2%2Bb7?arch=arm64
+- pkg:deb/debian/libmirage-kv-ocaml-dev@6.1.1-2%2Bb7?arch=armel
+- pkg:deb/debian/libmirage-kv-ocaml-dev@6.1.1-2%2Bb7?arch=armhf
+- pkg:deb/debian/libmirage-kv-ocaml-dev@6.1.1-2%2Bb7?arch=i386
+- pkg:deb/debian/libmirage-kv-ocaml-dev@6.1.1-2%2Bb7?arch=ppc64el
+- pkg:deb/debian/libmirage-kv-ocaml-dev@6.1.1-2%2Bb7?arch=riscv64
+- pkg:deb/debian/libmirage-kv-ocaml-dev@6.1.1-2%2Bb7?arch=s390x
+- pkg:deb/debian/libmirage-kv-ocaml-dev@6.1.1-2%2Bb9?arch=amd64
+- pkg:deb/debian/libmirage-kv-ocaml-dev@6.1.1-2%2Bb9?arch=arm64
+- pkg:deb/debian/libmirage-kv-ocaml-dev@6.1.1-2%2Bb9?arch=armel
+- pkg:deb/debian/libmirage-kv-ocaml-dev@6.1.1-2%2Bb9?arch=armhf
+- pkg:deb/debian/libmirage-kv-ocaml-dev@6.1.1-2%2Bb9?arch=i386
+- pkg:deb/debian/libmirage-kv-ocaml-dev@6.1.1-2%2Bb9?arch=mips64el
+- pkg:deb/debian/libmirage-kv-ocaml-dev@6.1.1-2%2Bb9?arch=ppc64el
+- pkg:deb/debian/libmirage-kv-ocaml-dev@6.1.1-2%2Bb9?arch=riscv64
+- pkg:deb/debian/libmirage-kv-ocaml-dev@6.1.1-2%2Bb9?arch=s390x

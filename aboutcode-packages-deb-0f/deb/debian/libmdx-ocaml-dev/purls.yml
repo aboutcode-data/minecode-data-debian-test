@@ -1,0 +1,17 @@
+- pkg:deb/debian/libmdx-ocaml-dev@2.5.0-3%2Bb10?arch=amd64
+- pkg:deb/debian/libmdx-ocaml-dev@2.5.0-3%2Bb10?arch=arm64
+- pkg:deb/debian/libmdx-ocaml-dev@2.5.0-3%2Bb10?arch=ppc64el
+- pkg:deb/debian/libmdx-ocaml-dev@2.5.0-3%2Bb10?arch=riscv64
+- pkg:deb/debian/libmdx-ocaml-dev@2.5.0-3%2Bb10?arch=s390x
+- pkg:deb/debian/libmdx-ocaml-dev@2.5.0-3%2Bb4?arch=amd64
+- pkg:deb/debian/libmdx-ocaml-dev@2.5.0-3%2Bb4?arch=arm64
+- pkg:deb/debian/libmdx-ocaml-dev@2.5.0-3%2Bb4?arch=armel
+- pkg:deb/debian/libmdx-ocaml-dev@2.5.0-3%2Bb4?arch=armhf
+- pkg:deb/debian/libmdx-ocaml-dev@2.5.0-3%2Bb4?arch=i386
+- pkg:deb/debian/libmdx-ocaml-dev@2.5.0-3%2Bb4?arch=ppc64el
+- pkg:deb/debian/libmdx-ocaml-dev@2.5.0-3%2Bb4?arch=riscv64
+- pkg:deb/debian/libmdx-ocaml-dev@2.5.0-3%2Bb4?arch=s390x
+- pkg:deb/debian/libmdx-ocaml-dev@2.5.0-3%2Bb9?arch=armel
+- pkg:deb/debian/libmdx-ocaml-dev@2.5.0-3%2Bb9?arch=armhf
+- pkg:deb/debian/libmdx-ocaml-dev@2.5.0-3%2Bb9?arch=i386
+- pkg:deb/debian/libmdx-ocaml-dev@2.5.0-3%2Bb9?arch=mips64el
