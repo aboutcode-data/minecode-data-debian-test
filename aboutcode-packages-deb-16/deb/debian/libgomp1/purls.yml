@@ -11,3 +11,11 @@
 - pkg:deb/debian/libgomp1@12.2.0-14%2Bdeb12u1?arch=mipsel
 - pkg:deb/debian/libgomp1@12.2.0-14%2Bdeb12u1?arch=ppc64el
 - pkg:deb/debian/libgomp1@12.2.0-14%2Bdeb12u1?arch=s390x
+- pkg:deb/debian/libgomp1@14.2.0-19?arch=amd64
+- pkg:deb/debian/libgomp1@14.2.0-19?arch=arm64
+- pkg:deb/debian/libgomp1@14.2.0-19?arch=armel
+- pkg:deb/debian/libgomp1@14.2.0-19?arch=armhf
+- pkg:deb/debian/libgomp1@14.2.0-19?arch=i386
+- pkg:deb/debian/libgomp1@14.2.0-19?arch=ppc64el
+- pkg:deb/debian/libgomp1@14.2.0-19?arch=riscv64
+- pkg:deb/debian/libgomp1@14.2.0-19?arch=s390x

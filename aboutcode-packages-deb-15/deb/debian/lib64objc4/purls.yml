@@ -1,3 +1,4 @@
 - pkg:deb/debian/lib64objc4@10.2.1-6?arch=i386
 - pkg:deb/debian/lib64objc4@12.2.0-14%2Bdeb12u1?arch=i386
 - pkg:deb/debian/lib64objc4@12.2.0-14%2Bdeb12u1?arch=mipsel
+- pkg:deb/debian/lib64objc4@14.2.0-19?arch=i386

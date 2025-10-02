@@ -1,1 +1,2 @@
 - pkg:deb/debian/lib64asan8@12.2.0-14%2Bdeb12u1?arch=i386
+- pkg:deb/debian/lib64asan8@14.2.0-19?arch=i386
