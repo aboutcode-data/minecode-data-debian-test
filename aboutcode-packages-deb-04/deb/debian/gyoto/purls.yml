@@ -1,0 +1,4 @@
+- pkg:deb/debian/gyoto@1.4.4-3?arch=all
+- pkg:deb/debian/gyoto@1.4.4-8?arch=all
+- pkg:deb/debian/gyoto@2.0.2-1~bpo12%2B1?arch=all
+- pkg:deb/debian/gyoto@2.0.2-6?arch=all

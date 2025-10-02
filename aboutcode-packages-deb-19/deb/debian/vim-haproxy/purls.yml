@@ -1,0 +1,4 @@
+- pkg:deb/debian/vim-haproxy@2.2.9-2%2Bdeb11u6?arch=all
+- pkg:deb/debian/vim-haproxy@2.6.12-1%2Bdeb12u2?arch=all
+- pkg:deb/debian/vim-haproxy@3.0.11-1?arch=all
+- pkg:deb/debian/vim-haproxy@3.2.5-1?arch=all

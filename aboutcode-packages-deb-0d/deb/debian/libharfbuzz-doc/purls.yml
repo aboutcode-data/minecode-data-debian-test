@@ -1,0 +1,5 @@
+- pkg:deb/debian/libharfbuzz-doc@10.2.0-1?arch=all
+- pkg:deb/debian/libharfbuzz-doc@11.4.5-1?arch=all
+- pkg:deb/debian/libharfbuzz-doc@11.5.0-1?arch=all
+- pkg:deb/debian/libharfbuzz-doc@2.7.4-1?arch=all
+- pkg:deb/debian/libharfbuzz-doc@6.0.0%2Bdfsg-3?arch=all
