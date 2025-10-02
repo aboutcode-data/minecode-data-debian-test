@@ -1,0 +1,6 @@
+- pkg:deb/debian/drbl@2.32.10-2?arch=all
+- pkg:deb/debian/drbl@5.2.7-1?arch=all
+- pkg:deb/debian/drbl@5.4.10-1?arch=all
+- pkg:deb/debian/drbl@5.5.10-1?arch=all
+- pkg:deb/debian/drbl@5.5.12-1?arch=all
+- pkg:deb/debian/drbl@5.5.12-2?arch=all

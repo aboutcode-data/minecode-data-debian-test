@@ -1,0 +1,4 @@
+- pkg:deb/debian/doublecmd-help-en@0.9.10-1?arch=all
+- pkg:deb/debian/doublecmd-help-en@1.0.10-1?arch=all
+- pkg:deb/debian/doublecmd-help-en@1.1.21-1?arch=all
+- pkg:deb/debian/doublecmd-help-en@1.1.26-1?arch=all

@@ -1,0 +1,6 @@
+- pkg:deb/debian/dracut-network@051-1?arch=all
+- pkg:deb/debian/dracut-network@059-4?arch=all
+- pkg:deb/debian/dracut-network@106-5~bpo12%2B1?arch=all
+- pkg:deb/debian/dracut-network@106-6?arch=all
+- pkg:deb/debian/dracut-network@108-3?arch=all
+- pkg:deb/debian/dracut-network@108-5?arch=all
