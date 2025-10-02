@@ -1,0 +1,3 @@
+- pkg:deb/debian/libhipfft0-tests@6.1.2-3%2Bb1?arch=arm64
+- pkg:deb/debian/libhipfft0-tests@6.1.2-3?arch=amd64
+- pkg:deb/debian/libhipfft0-tests@6.1.2-3?arch=ppc64el

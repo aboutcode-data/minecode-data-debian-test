@@ -1,0 +1,2 @@
+- pkg:deb/debian/herold@8.0.1-1.1?arch=all
+- pkg:deb/debian/herold@8.0.1-1?arch=all
