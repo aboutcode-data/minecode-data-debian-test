@@ -1,0 +1,7 @@
+- pkg:deb/debian/libhiprtc-builtins5@5.2.3-8?arch=amd64
+- pkg:deb/debian/libhiprtc-builtins5@5.2.3-8?arch=arm64
+- pkg:deb/debian/libhiprtc-builtins5@5.2.3-8?arch=ppc64el
+- pkg:deb/debian/libhiprtc-builtins5@5.2.3-8?arch=s390x
+- pkg:deb/debian/libhiprtc-builtins5@5.7.1-6?arch=amd64
+- pkg:deb/debian/libhiprtc-builtins5@5.7.1-6?arch=arm64
+- pkg:deb/debian/libhiprtc-builtins5@5.7.1-6?arch=ppc64el

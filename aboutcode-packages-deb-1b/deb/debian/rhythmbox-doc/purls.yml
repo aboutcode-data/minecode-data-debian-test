@@ -1,0 +1,5 @@
+- pkg:deb/debian/rhythmbox-doc@3.4.4-4?arch=all
+- pkg:deb/debian/rhythmbox-doc@3.4.6-2?arch=all
+- pkg:deb/debian/rhythmbox-doc@3.4.8-1?arch=all
+- pkg:deb/debian/rhythmbox-doc@3.4.8-2?arch=all
+- pkg:deb/debian/rhythmbox-doc@3.4.8-3?arch=all
