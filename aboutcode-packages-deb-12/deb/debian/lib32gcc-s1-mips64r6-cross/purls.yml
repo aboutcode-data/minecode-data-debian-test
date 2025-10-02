@@ -1,1 +1,2 @@
 - pkg:deb/debian/lib32gcc-s1-mips64r6-cross@10.2.1-6cross1?arch=all
+- pkg:deb/debian/lib32gcc-s1-mips64r6-cross@12.2.0-14cross5?arch=all

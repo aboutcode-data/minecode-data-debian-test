@@ -1,0 +1,2 @@
+- pkg:deb/debian/gccgo-13-arm-linux-gnueabi@13.3.0-16?arch=armel
+- pkg:deb/debian/gccgo-13-arm-linux-gnueabi@13.4.0-4?arch=armel
