@@ -1,0 +1,2 @@
+- pkg:deb/debian/libpython3.13-testsuite@3.13.5-2?arch=all
+- pkg:deb/debian/libpython3.13-testsuite@3.13.7-1?arch=all
