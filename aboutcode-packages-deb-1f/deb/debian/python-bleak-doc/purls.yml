@@ -1,0 +1,3 @@
+- pkg:deb/debian/python-bleak-doc@0.20.2-1?arch=all
+- pkg:deb/debian/python-bleak-doc@0.22.3-1?arch=all
+- pkg:deb/debian/python-bleak-doc@1.1.1-1?arch=all

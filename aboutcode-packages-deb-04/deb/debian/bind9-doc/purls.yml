@@ -1,0 +1,5 @@
+- pkg:deb/debian/bind9-doc@9.16.50-1~deb11u2?arch=all
+- pkg:deb/debian/bind9-doc@9.18.33-1~deb12u2?arch=all
+- pkg:deb/debian/bind9-doc@9.20.11-4?arch=all
+- pkg:deb/debian/bind9-doc@9.20.11-4~bpo12%2B1?arch=all
+- pkg:deb/debian/bind9-doc@9.21.10-10?arch=all

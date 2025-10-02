@@ -1,0 +1,3 @@
+- pkg:deb/debian/blueprint-compiler@0.16.0-3?arch=all
+- pkg:deb/debian/blueprint-compiler@0.18.0-2?arch=all
+- pkg:deb/debian/blueprint-compiler@0.6.0-1?arch=all
