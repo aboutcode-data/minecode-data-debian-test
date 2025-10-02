@@ -1,0 +1,5 @@
+- pkg:deb/debian/python3-texext@0.6.6-2?arch=all
+- pkg:deb/debian/python3-texext@0.6.7-1?arch=all
+- pkg:deb/debian/python3-texext@0.6.7-6?arch=all
+- pkg:deb/debian/python3-texext@0.6.7-7?arch=all
+- pkg:deb/debian/python3-texext@0.6.7-8?arch=all

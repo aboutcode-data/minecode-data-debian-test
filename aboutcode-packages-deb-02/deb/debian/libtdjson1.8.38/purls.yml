@@ -1,0 +1,8 @@
+- pkg:deb/debian/libtdjson1.8.38@1.8.38~git20241021.d321984%2Bdfsg-4?arch=amd64
+- pkg:deb/debian/libtdjson1.8.38@1.8.38~git20241021.d321984%2Bdfsg-4?arch=arm64
+- pkg:deb/debian/libtdjson1.8.38@1.8.38~git20241021.d321984%2Bdfsg-4?arch=armel
+- pkg:deb/debian/libtdjson1.8.38@1.8.38~git20241021.d321984%2Bdfsg-4?arch=armhf
+- pkg:deb/debian/libtdjson1.8.38@1.8.38~git20241021.d321984%2Bdfsg-4?arch=i386
+- pkg:deb/debian/libtdjson1.8.38@1.8.38~git20241021.d321984%2Bdfsg-4?arch=mips64el
+- pkg:deb/debian/libtdjson1.8.38@1.8.38~git20241021.d321984%2Bdfsg-4?arch=ppc64el
+- pkg:deb/debian/libtdjson1.8.38@1.8.38~git20241021.d321984%2Bdfsg-4?arch=riscv64
