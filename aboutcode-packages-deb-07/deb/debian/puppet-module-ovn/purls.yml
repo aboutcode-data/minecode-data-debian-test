@@ -1,0 +1,3 @@
+- pkg:deb/debian/puppet-module-ovn@13.1.0-4?arch=all
+- pkg:deb/debian/puppet-module-ovn@21.0.0-1?arch=all
+- pkg:deb/debian/puppet-module-ovn@25.0.0-1?arch=all
