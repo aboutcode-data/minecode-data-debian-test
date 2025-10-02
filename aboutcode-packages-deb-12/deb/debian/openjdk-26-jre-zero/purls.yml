@@ -1,0 +1,10 @@
+- pkg:deb/debian/openjdk-26-jre-zero@26~12ea-1?arch=amd64
+- pkg:deb/debian/openjdk-26-jre-zero@26~12ea-1?arch=arm64
+- pkg:deb/debian/openjdk-26-jre-zero@26~12ea-1?arch=ppc64el
+- pkg:deb/debian/openjdk-26-jre-zero@26~12ea-1?arch=riscv64
+- pkg:deb/debian/openjdk-26-jre-zero@26~12ea-1?arch=s390x
+- pkg:deb/debian/openjdk-26-jre-zero@26~17ea-1?arch=amd64
+- pkg:deb/debian/openjdk-26-jre-zero@26~17ea-1?arch=arm64
+- pkg:deb/debian/openjdk-26-jre-zero@26~17ea-1?arch=ppc64el
+- pkg:deb/debian/openjdk-26-jre-zero@26~17ea-1?arch=riscv64
+- pkg:deb/debian/openjdk-26-jre-zero@26~17ea-1?arch=s390x

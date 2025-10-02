@@ -1,0 +1,2 @@
+- pkg:deb/debian/openjdk-25-jvmci-jdk@25%2B36-1?arch=amd64
+- pkg:deb/debian/openjdk-25-jvmci-jdk@25~32ea-1?arch=amd64
