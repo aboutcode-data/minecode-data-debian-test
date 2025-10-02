@@ -1,0 +1,3 @@
+- pkg:deb/debian/libkdb-data@3.2.0-4?arch=all
+- pkg:deb/debian/libkdb-data@3.2.0-6?arch=all
+- pkg:deb/debian/libkdb-data@3.2.0-8?arch=all

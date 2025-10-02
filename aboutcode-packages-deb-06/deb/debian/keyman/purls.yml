@@ -1,0 +1,4 @@
+- pkg:deb/debian/keyman@16.0.138-4?arch=all
+- pkg:deb/debian/keyman@18.0.235-1?arch=all
+- pkg:deb/debian/keyman@18.0.241-1?arch=all
+- pkg:deb/debian/keyman@11.0.103-2?arch=all

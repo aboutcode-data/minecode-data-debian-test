@@ -1,0 +1,3 @@
+- pkg:deb/debian/kdeplasma-addons-data@5.20.5-1?arch=all
+- pkg:deb/debian/kdeplasma-addons-data@5.27.5-2?arch=all
+- pkg:deb/debian/kdeplasma-addons-data@6.3.5-1?arch=all
