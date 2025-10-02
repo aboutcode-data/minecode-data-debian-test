@@ -1,0 +1,2 @@
+- pkg:deb/debian/amd-smi@6.1.2%2Bds-2?arch=amd64
+- pkg:deb/debian/amd-smi@6.4.3%2Bds-2?arch=amd64

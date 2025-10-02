@@ -1,0 +1,2 @@
+- pkg:deb/debian/apt-xapian-index@0.52?arch=all
+- pkg:deb/debian/apt-xapian-index@0.53?arch=all
