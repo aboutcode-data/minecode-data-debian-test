@@ -1,0 +1,3 @@
+- pkg:deb/debian/dh-lua@27?arch=all
+- pkg:deb/debian/dh-lua@29?arch=all
+- pkg:deb/debian/dh-lua@33?arch=all

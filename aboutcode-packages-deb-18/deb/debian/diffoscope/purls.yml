@@ -1,0 +1,4 @@
+- pkg:deb/debian/diffoscope@177?arch=all
+- pkg:deb/debian/diffoscope@240%2Bdeb12u1?arch=all
+- pkg:deb/debian/diffoscope@297?arch=all
+- pkg:deb/debian/diffoscope@306?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/lua-any@27?arch=all
+- pkg:deb/debian/lua-any@29?arch=all
+- pkg:deb/debian/lua-any@33?arch=all

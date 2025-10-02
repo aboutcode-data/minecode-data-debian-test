@@ -1,0 +1,3 @@
+- pkg:deb/debian/developers-reference-it@11.0.21?arch=all
+- pkg:deb/debian/developers-reference-it@12.18?arch=all
+- pkg:deb/debian/developers-reference-it@13.20?arch=all

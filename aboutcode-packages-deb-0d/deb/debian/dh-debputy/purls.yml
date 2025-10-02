@@ -1,0 +1,5 @@
+- pkg:deb/debian/dh-debputy@0.1.67.1?arch=all
+- pkg:deb/debian/dh-debputy@0.1.67.1~bpo12%2B1?arch=all
+- pkg:deb/debian/dh-debputy@0.1.76~bpo13%2B2?arch=all
+- pkg:deb/debian/dh-debputy@0.1.77?arch=all
+- pkg:deb/debian/dh-debputy@0.1.77~bpo13%2B1?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/debian-coq-tools@0.14?arch=all
+- pkg:deb/debian/debian-coq-tools@0.5?arch=all
