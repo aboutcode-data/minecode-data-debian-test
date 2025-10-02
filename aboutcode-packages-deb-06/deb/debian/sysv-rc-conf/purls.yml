@@ -1,0 +1,4 @@
+- pkg:deb/debian/sysv-rc-conf@0.99-10?arch=all
+- pkg:deb/debian/sysv-rc-conf@0.99-7.1?arch=all
+- pkg:deb/debian/sysv-rc-conf@1.1.1-1?arch=all
+- pkg:deb/debian/sysv-rc-conf@1.1.1-1~bpo13%2B1?arch=all
