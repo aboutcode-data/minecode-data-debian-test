@@ -1,0 +1,4 @@
+- pkg:deb/debian/libsdl3-doc@3.2.10%2Bds-1?arch=all
+- pkg:deb/debian/libsdl3-doc@3.2.22%2Bds-1?arch=all
+- pkg:deb/debian/libsdl3-doc@3.3~git20250925~ed2cdce%2Bds-1?arch=all
+- pkg:deb/debian/libsdl3-doc@3.3~git20250930~fd4c2f8%2Bds-1?arch=all

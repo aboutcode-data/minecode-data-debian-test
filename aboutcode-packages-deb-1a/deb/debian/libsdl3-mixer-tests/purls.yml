@@ -1,0 +1,9 @@
+- pkg:deb/debian/libsdl3-mixer-tests@3.1~git20250910~d032535%2Bds-1?arch=amd64
+- pkg:deb/debian/libsdl3-mixer-tests@3.1~git20250910~d032535%2Bds-1?arch=arm64
+- pkg:deb/debian/libsdl3-mixer-tests@3.1~git20250910~d032535%2Bds-1?arch=armel
+- pkg:deb/debian/libsdl3-mixer-tests@3.1~git20250910~d032535%2Bds-1?arch=armhf
+- pkg:deb/debian/libsdl3-mixer-tests@3.1~git20250910~d032535%2Bds-1?arch=i386
+- pkg:deb/debian/libsdl3-mixer-tests@3.1~git20250910~d032535%2Bds-1?arch=mips64el
+- pkg:deb/debian/libsdl3-mixer-tests@3.1~git20250910~d032535%2Bds-1?arch=ppc64el
+- pkg:deb/debian/libsdl3-mixer-tests@3.1~git20250910~d032535%2Bds-1?arch=riscv64
+- pkg:deb/debian/libsdl3-mixer-tests@3.1~git20250910~d032535%2Bds-1?arch=s390x

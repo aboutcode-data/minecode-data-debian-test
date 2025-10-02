@@ -1,0 +1,3 @@
+- pkg:deb/debian/libsnmp-info-perl@3.71-1?arch=all
+- pkg:deb/debian/libsnmp-info-perl@3.92-1?arch=all
+- pkg:deb/debian/libsnmp-info-perl@3.972002-1?arch=all
