@@ -1,0 +1,3 @@
+- pkg:deb/debian/adql-java-doc@1.5-1?arch=all
+- pkg:deb/debian/adql-java-doc@1.5-2?arch=all
+- pkg:deb/debian/adql-java-doc@2.0~beta%2Bds-4?arch=all

@@ -1,0 +1,3 @@
+- pkg:deb/debian/quake3@67?arch=all
+- pkg:deb/debian/quake3@73?arch=all
+- pkg:deb/debian/quake3@85.1?arch=all

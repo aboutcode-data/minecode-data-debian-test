@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-aiomysql@0.0.20-2?arch=all
+- pkg:deb/debian/python3-aiomysql@0.1.1-2?arch=all
