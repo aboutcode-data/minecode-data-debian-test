@@ -1,0 +1,5 @@
+- pkg:deb/debian/ghc-doc@8.8.4-2?arch=all
+- pkg:deb/debian/ghc-doc@9.0.2-4?arch=all
+- pkg:deb/debian/ghc-doc@9.10.3-1~exp2?arch=all
+- pkg:deb/debian/ghc-doc@9.6.6-4?arch=all
+- pkg:deb/debian/ghc-doc@9.8.4-1~0exp4?arch=all

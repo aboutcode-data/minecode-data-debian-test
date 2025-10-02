@@ -1,0 +1,3 @@
+- pkg:deb/debian/libgluegen2-build-java@2.3.2-8?arch=all
+- pkg:deb/debian/libgluegen2-build-java@2.3.2-9?arch=all
+- pkg:deb/debian/libgluegen2-build-java@2.5.0%2Bdfsg-3?arch=all

@@ -1,0 +1,5 @@
+- pkg:deb/debian/libgs10-common@10.0.0~dfsg-11%2Bdeb12u7?arch=all
+- pkg:deb/debian/libgs10-common@10.05.1~dfsg-1?arch=all
+- pkg:deb/debian/libgs10-common@10.05.1~dfsg-3?arch=all
+- pkg:deb/debian/libgs10-common@10.06.0~dfsg-2?arch=all
+- pkg:deb/debian/libgs10-common@10.06.0~dfsg-3?arch=all

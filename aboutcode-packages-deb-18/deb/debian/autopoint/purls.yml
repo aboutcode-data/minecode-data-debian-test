@@ -1,0 +1,3 @@
+- pkg:deb/debian/autopoint@0.21-12?arch=all
+- pkg:deb/debian/autopoint@0.21-4?arch=all
+- pkg:deb/debian/autopoint@0.23.1-2?arch=all

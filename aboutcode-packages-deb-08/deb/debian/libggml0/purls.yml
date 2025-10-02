@@ -1,0 +1,5 @@
+- pkg:deb/debian/libggml0@0.0~git20250712.d62df60-5?arch=amd64
+- pkg:deb/debian/libggml0@0.0~git20250712.d62df60-5?arch=arm64
+- pkg:deb/debian/libggml0@0.0~git20250712.d62df60-5?arch=ppc64el
+- pkg:deb/debian/libggml0@0.0~git20250712.d62df60-5?arch=riscv64
+- pkg:deb/debian/libggml0@0.0~git20250712.d62df60-5?arch=s390x

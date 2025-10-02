@@ -1,0 +1,4 @@
+- pkg:deb/debian/libc6-dev-mipsn32@2.36-9%2Bdeb12u13?arch=mips64el
+- pkg:deb/debian/libc6-dev-mipsn32@2.36-9%2Bdeb12u13?arch=mipsel
+- pkg:deb/debian/libc6-dev-mipsn32@2.41-12?arch=mips64el
+- pkg:deb/debian/libc6-dev-mipsn32@2.42-2?arch=mips64el

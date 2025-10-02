@@ -1,0 +1,3 @@
+- pkg:deb/debian/gitlabracadabra@1.12.0?arch=all
+- pkg:deb/debian/gitlabracadabra@1.2.0?arch=all
+- pkg:deb/debian/gitlabracadabra@2.7.1?arch=all
