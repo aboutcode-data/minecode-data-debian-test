@@ -1,0 +1,5 @@
+- pkg:deb/debian/geographiclib-doc@1.51-1?arch=all
+- pkg:deb/debian/geographiclib-doc@2.1.2-1?arch=all
+- pkg:deb/debian/geographiclib-doc@2.5-1?arch=all
+- pkg:deb/debian/geographiclib-doc@2.5.2-1?arch=all
+- pkg:deb/debian/geographiclib-doc@2.6-1?arch=all

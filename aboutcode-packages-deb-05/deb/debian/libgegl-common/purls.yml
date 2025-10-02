@@ -1,0 +1,4 @@
+- pkg:deb/debian/libgegl-common@0.4.26-2?arch=all
+- pkg:deb/debian/libgegl-common@0.4.42-2?arch=all
+- pkg:deb/debian/libgegl-common@0.4.62-2?arch=all
+- pkg:deb/debian/libgegl-common@0.4.62-3?arch=all
