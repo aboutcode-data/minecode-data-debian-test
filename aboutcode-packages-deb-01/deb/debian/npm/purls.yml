@@ -1,0 +1,3 @@
+- pkg:deb/debian/npm@7.5.2%2Bds-2?arch=all
+- pkg:deb/debian/npm@9.2.0~ds1-1?arch=all
+- pkg:deb/debian/npm@9.2.0~ds1-3?arch=all

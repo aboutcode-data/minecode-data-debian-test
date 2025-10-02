@@ -1,0 +1,5 @@
+- pkg:deb/debian/nova-compute-kvm@22.0.1-2%2Bdeb11u1?arch=all
+- pkg:deb/debian/nova-compute-kvm@26.2.2-1~deb12u3?arch=all
+- pkg:deb/debian/nova-compute-kvm@31.0.0-6?arch=all
+- pkg:deb/debian/nova-compute-kvm@31.0.0-7?arch=all
+- pkg:deb/debian/nova-compute-kvm@32.0.0~rc1-3?arch=all

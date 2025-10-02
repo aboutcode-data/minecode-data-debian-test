@@ -16,3 +16,7 @@
 - pkg:deb/debian/libxnvctrl0@535.171.04-1%2Bb2?arch=ppc64el
 - pkg:deb/debian/libxnvctrl0@535.171.04-1%2Bb2?arch=riscv64
 - pkg:deb/debian/libxnvctrl0@535.171.04-1%2Bb2?arch=s390x
+- pkg:deb/debian/libxnvctrl0@470.239.06-1?arch=amd64
+- pkg:deb/debian/libxnvctrl0@470.239.06-1?arch=arm64
+- pkg:deb/debian/libxnvctrl0@470.239.06-1?arch=armhf
+- pkg:deb/debian/libxnvctrl0@470.239.06-1?arch=i386

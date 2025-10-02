@@ -1,0 +1,4 @@
+- pkg:deb/debian/python3-nut@2.8.0-7?arch=all
+- pkg:deb/debian/python3-nut@2.8.1-5?arch=all
+- pkg:deb/debian/python3-nut@2.8.3-3?arch=all
+- pkg:deb/debian/python3-nut@2.8.4-1~exp1?arch=all

@@ -1,0 +1,10 @@
+- pkg:deb/debian/libupsclient7@2.8.3-3?arch=amd64
+- pkg:deb/debian/libupsclient7@2.8.3-3?arch=arm64
+- pkg:deb/debian/libupsclient7@2.8.3-3?arch=armel
+- pkg:deb/debian/libupsclient7@2.8.3-3?arch=armhf
+- pkg:deb/debian/libupsclient7@2.8.3-3?arch=i386
+- pkg:deb/debian/libupsclient7@2.8.3-3?arch=mips64el
+- pkg:deb/debian/libupsclient7@2.8.3-3?arch=ppc64el
+- pkg:deb/debian/libupsclient7@2.8.3-3?arch=riscv64
+- pkg:deb/debian/libupsclient7@2.8.3-3?arch=s390x
+- pkg:deb/debian/libupsclient7@2.8.4-1~exp1?arch=amd64
