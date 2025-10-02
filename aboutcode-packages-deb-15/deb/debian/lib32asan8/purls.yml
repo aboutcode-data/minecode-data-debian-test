@@ -1,0 +1,2 @@
+- pkg:deb/debian/lib32asan8@12.2.0-14%2Bdeb12u1?arch=amd64
+- pkg:deb/debian/lib32asan8@12.2.0-14%2Bdeb12u1?arch=s390x
