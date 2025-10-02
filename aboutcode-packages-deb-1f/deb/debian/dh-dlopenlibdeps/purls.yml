@@ -1,0 +1,2 @@
+- pkg:deb/debian/dh-dlopenlibdeps@0.15?arch=all
+- pkg:deb/debian/dh-dlopenlibdeps@0.15~bpo12%2B1?arch=all

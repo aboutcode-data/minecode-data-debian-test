@@ -1,0 +1,2 @@
+- pkg:deb/debian/patator@0.9-3?arch=all
+- pkg:deb/debian/patator@1.0-4?arch=all

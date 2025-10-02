@@ -1,0 +1,2 @@
+- pkg:deb/debian/librust-oxigraph-dev@0.4.9-1?arch=all
+- pkg:deb/debian/librust-oxigraph-dev@0.5.0-7?arch=all
