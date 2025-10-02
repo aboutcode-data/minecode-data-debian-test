@@ -1,0 +1,5 @@
+- pkg:deb/debian/python3-cryptography-vectors@3.3.2-1?arch=all
+- pkg:deb/debian/python3-cryptography-vectors@38.0.4-1?arch=all
+- pkg:deb/debian/python3-cryptography-vectors@43.0.0-1?arch=all
+- pkg:deb/debian/python3-cryptography-vectors@44.0.2-1?arch=all
+- pkg:deb/debian/python3-cryptography-vectors@45.0.6-1~exp1?arch=all
