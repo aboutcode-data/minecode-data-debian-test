@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-signet@0.14.0-4?arch=all
+- pkg:deb/debian/ruby-signet@0.17.0-1?arch=all

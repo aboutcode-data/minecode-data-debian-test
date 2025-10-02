@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-puppet-forge@3.0.0-1?arch=all
+- pkg:deb/debian/ruby-puppet-forge@5.0.3-1?arch=all
