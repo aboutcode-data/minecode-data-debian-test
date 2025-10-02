@@ -1,0 +1,5 @@
+- pkg:deb/debian/golang-github-mattn-go-xmpp-dev@0.0~git20220712.2eb2349-1?arch=all
+- pkg:deb/debian/golang-github-mattn-go-xmpp-dev@0.2.12-1~bpo12%2B1?arch=all
+- pkg:deb/debian/golang-github-mattn-go-xmpp-dev@0.2.14-1?arch=all
+- pkg:deb/debian/golang-github-mattn-go-xmpp-dev@0.2.17-1?arch=all
+- pkg:deb/debian/golang-github-mattn-go-xmpp-dev@0.2.17-1~bpo13%2B1?arch=all

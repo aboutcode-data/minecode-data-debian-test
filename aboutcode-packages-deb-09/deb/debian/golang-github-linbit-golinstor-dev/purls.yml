@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-linbit-golinstor-dev@0.56.2-1?arch=all
+- pkg:deb/debian/golang-github-linbit-golinstor-dev@0.57.0-1?arch=all
