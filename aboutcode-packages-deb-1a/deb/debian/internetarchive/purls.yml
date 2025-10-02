@@ -1,0 +1,4 @@
+- pkg:deb/debian/internetarchive@1.9.9-1?arch=all
+- pkg:deb/debian/internetarchive@3.3.0-1?arch=all
+- pkg:deb/debian/internetarchive@5.4.0-1?arch=all
+- pkg:deb/debian/internetarchive@5.5.1-1?arch=all
