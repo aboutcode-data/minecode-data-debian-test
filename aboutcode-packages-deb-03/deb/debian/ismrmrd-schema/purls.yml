@@ -1,0 +1,2 @@
+- pkg:deb/debian/ismrmrd-schema@1.4.2.1-6?arch=all
+- pkg:deb/debian/ismrmrd-schema@1.8.0-2?arch=all
