@@ -1,0 +1,2 @@
+- pkg:deb/debian/powersupply-gtk@0.8.0-2?arch=all
+- pkg:deb/debian/powersupply-gtk@0.9.0-2?arch=all
