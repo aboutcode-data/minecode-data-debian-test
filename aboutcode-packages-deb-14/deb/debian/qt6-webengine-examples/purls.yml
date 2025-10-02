@@ -1,0 +1,8 @@
+- pkg:deb/debian/qt6-webengine-examples@6.8.2%2Bdfsg-4?arch=amd64
+- pkg:deb/debian/qt6-webengine-examples@6.8.2%2Bdfsg-4?arch=arm64
+- pkg:deb/debian/qt6-webengine-examples@6.8.2%2Bdfsg-4?arch=armhf
+- pkg:deb/debian/qt6-webengine-examples@6.8.2%2Bdfsg-4?arch=i386
+- pkg:deb/debian/qt6-webengine-examples@6.9.2%2Bdfsg-3?arch=amd64
+- pkg:deb/debian/qt6-webengine-examples@6.9.2%2Bdfsg-3?arch=arm64
+- pkg:deb/debian/qt6-webengine-examples@6.9.2%2Bdfsg-3?arch=armhf
+- pkg:deb/debian/qt6-webengine-examples@6.9.2%2Bdfsg-3?arch=i386
