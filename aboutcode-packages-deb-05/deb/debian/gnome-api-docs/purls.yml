@@ -1,0 +1,4 @@
+- pkg:deb/debian/gnome-api-docs@3.38%2B3?arch=all
+- pkg:deb/debian/gnome-api-docs@43%2B1?arch=all
+- pkg:deb/debian/gnome-api-docs@48%2B2?arch=all
+- pkg:deb/debian/gnome-api-docs@49%2B3.1?arch=all

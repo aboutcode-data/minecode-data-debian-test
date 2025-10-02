@@ -1,0 +1,3 @@
+- pkg:deb/debian/libmed-doc@4.1.0%2Brepack-2?arch=all
+- pkg:deb/debian/libmed-doc@4.1.0%2Brepack-3?arch=all
+- pkg:deb/debian/libmed-doc@4.1.0%2Brepack-9?arch=all

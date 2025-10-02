@@ -1,0 +1,16 @@
+- pkg:deb/debian/libcoq-mathcomp-zify@1.2.0%2B1.12%2B8.13-6%2Bb4?arch=amd64
+- pkg:deb/debian/libcoq-mathcomp-zify@1.2.0%2B1.12%2B8.13-6%2Bb4?arch=arm64
+- pkg:deb/debian/libcoq-mathcomp-zify@1.2.0%2B1.12%2B8.13-6%2Bb4?arch=armhf
+- pkg:deb/debian/libcoq-mathcomp-zify@1.2.0%2B1.12%2B8.13-6%2Bb4?arch=i386
+- pkg:deb/debian/libcoq-mathcomp-zify@1.2.0%2B1.12%2B8.13-6%2Bb4?arch=ppc64el
+- pkg:deb/debian/libcoq-mathcomp-zify@1.2.0%2B1.12%2B8.13-6%2Bb4?arch=s390x
+- pkg:deb/debian/libcoq-mathcomp-zify@1.5.0%2B2.0%2B8.16-4%2Bb11?arch=amd64
+- pkg:deb/debian/libcoq-mathcomp-zify@1.5.0%2B2.0%2B8.16-4%2Bb11?arch=arm64
+- pkg:deb/debian/libcoq-mathcomp-zify@1.5.0%2B2.0%2B8.16-4%2Bb11?arch=ppc64el
+- pkg:deb/debian/libcoq-mathcomp-zify@1.5.0%2B2.0%2B8.16-4%2Bb11?arch=riscv64
+- pkg:deb/debian/libcoq-mathcomp-zify@1.5.0%2B2.0%2B8.16-4%2Bb11?arch=s390x
+- pkg:deb/debian/libcoq-mathcomp-zify@1.5.0%2B2.0%2B8.16-4%2Bb7?arch=amd64
+- pkg:deb/debian/libcoq-mathcomp-zify@1.5.0%2B2.0%2B8.16-4%2Bb7?arch=arm64
+- pkg:deb/debian/libcoq-mathcomp-zify@1.5.0%2B2.0%2B8.16-4%2Bb7?arch=ppc64el
+- pkg:deb/debian/libcoq-mathcomp-zify@1.5.0%2B2.0%2B8.16-4%2Bb7?arch=riscv64
+- pkg:deb/debian/libcoq-mathcomp-zify@1.5.0%2B2.0%2B8.16-4%2Bb7?arch=s390x

@@ -1,0 +1,10 @@
+- pkg:deb/debian/libcoq-mathcomp-classical@1.9.0-1%2Bb2?arch=riscv64
+- pkg:deb/debian/libcoq-mathcomp-classical@1.9.0-1%2Bb2?arch=s390x
+- pkg:deb/debian/libcoq-mathcomp-classical@1.9.0-1%2Bb3?arch=amd64
+- pkg:deb/debian/libcoq-mathcomp-classical@1.9.0-1%2Bb3?arch=arm64
+- pkg:deb/debian/libcoq-mathcomp-classical@1.9.0-1%2Bb3?arch=ppc64el
+- pkg:deb/debian/libcoq-mathcomp-classical@1.9.0-1%2Bb6?arch=riscv64
+- pkg:deb/debian/libcoq-mathcomp-classical@1.9.0-1%2Bb6?arch=s390x
+- pkg:deb/debian/libcoq-mathcomp-classical@1.9.0-1%2Bb7?arch=amd64
+- pkg:deb/debian/libcoq-mathcomp-classical@1.9.0-1%2Bb7?arch=arm64
+- pkg:deb/debian/libcoq-mathcomp-classical@1.9.0-1%2Bb7?arch=ppc64el
