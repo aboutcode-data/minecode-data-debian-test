@@ -1,0 +1,3 @@
+- pkg:deb/debian/cython-doc@0.29.21-3?arch=all
+- pkg:deb/debian/cython-doc@0.29.32-2?arch=all
+- pkg:deb/debian/cython-doc@3.0.11%2Bdfsg-2?arch=all
