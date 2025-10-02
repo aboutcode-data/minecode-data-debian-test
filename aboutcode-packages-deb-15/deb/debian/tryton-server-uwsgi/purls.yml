@@ -1,0 +1,2 @@
+- pkg:deb/debian/tryton-server-uwsgi@6.0.29-2%2Bdeb12u3?arch=all
+- pkg:deb/debian/tryton-server-uwsgi@7.0.30-1?arch=all

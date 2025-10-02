@@ -1,0 +1,2 @@
+- pkg:deb/debian/tryton-sao@6.0.28%2Bds1-2?arch=all
+- pkg:deb/debian/tryton-sao@7.0.28%2Bds1-1?arch=all

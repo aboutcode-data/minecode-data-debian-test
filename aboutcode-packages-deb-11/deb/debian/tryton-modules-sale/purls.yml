@@ -1,0 +1,3 @@
+- pkg:deb/debian/tryton-modules-sale@5.0.5-1?arch=all
+- pkg:deb/debian/tryton-modules-sale@6.0.10-1?arch=all
+- pkg:deb/debian/tryton-modules-sale@7.0.13-1?arch=all

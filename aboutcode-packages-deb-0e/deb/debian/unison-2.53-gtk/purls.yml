@@ -1,0 +1,9 @@
+- pkg:deb/debian/unison-2.53-gtk@2.53.7-2?arch=amd64
+- pkg:deb/debian/unison-2.53-gtk@2.53.7-2?arch=arm64
+- pkg:deb/debian/unison-2.53-gtk@2.53.7-2?arch=armel
+- pkg:deb/debian/unison-2.53-gtk@2.53.7-2?arch=armhf
+- pkg:deb/debian/unison-2.53-gtk@2.53.7-2?arch=i386
+- pkg:deb/debian/unison-2.53-gtk@2.53.7-2?arch=mips64el
+- pkg:deb/debian/unison-2.53-gtk@2.53.7-2?arch=ppc64el
+- pkg:deb/debian/unison-2.53-gtk@2.53.7-2?arch=riscv64
+- pkg:deb/debian/unison-2.53-gtk@2.53.7-2?arch=s390x
