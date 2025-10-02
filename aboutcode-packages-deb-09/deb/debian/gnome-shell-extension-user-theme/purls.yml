@@ -1,0 +1,3 @@
+- pkg:deb/debian/gnome-shell-extension-user-theme@48.2-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-user-theme@48.3-1?arch=all
+- pkg:deb/debian/gnome-shell-extension-user-theme@49.0-1?arch=all
