@@ -1,0 +1,9 @@
+- pkg:deb/debian/libgnuradio-limesdr3.0.2@3.0.1.10.69-3%2Bb15?arch=amd64
+- pkg:deb/debian/libgnuradio-limesdr3.0.2@3.0.1.10.69-3%2Bb15?arch=arm64
+- pkg:deb/debian/libgnuradio-limesdr3.0.2@3.0.1.10.69-3%2Bb15?arch=armel
+- pkg:deb/debian/libgnuradio-limesdr3.0.2@3.0.1.10.69-3%2Bb15?arch=armhf
+- pkg:deb/debian/libgnuradio-limesdr3.0.2@3.0.1.10.69-3%2Bb15?arch=i386
+- pkg:deb/debian/libgnuradio-limesdr3.0.2@3.0.1.10.69-3%2Bb15?arch=mips64el
+- pkg:deb/debian/libgnuradio-limesdr3.0.2@3.0.1.10.69-3%2Bb15?arch=ppc64el
+- pkg:deb/debian/libgnuradio-limesdr3.0.2@3.0.1.10.69-3%2Bb15?arch=riscv64
+- pkg:deb/debian/libgnuradio-limesdr3.0.2@3.0.1.10.69-3%2Bb15?arch=s390x

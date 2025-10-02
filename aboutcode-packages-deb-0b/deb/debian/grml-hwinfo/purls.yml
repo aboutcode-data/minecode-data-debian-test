@@ -1,0 +1,2 @@
+- pkg:deb/debian/grml-hwinfo@0.18.8?arch=all
+- pkg:deb/debian/grml-hwinfo@0.18.9?arch=all
