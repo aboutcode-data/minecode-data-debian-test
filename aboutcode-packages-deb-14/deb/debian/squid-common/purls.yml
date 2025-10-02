@@ -1,0 +1,4 @@
+- pkg:deb/debian/squid-common@4.13-10%2Bdeb11u3?arch=all
+- pkg:deb/debian/squid-common@5.7-2%2Bdeb12u3?arch=all
+- pkg:deb/debian/squid-common@6.13-2?arch=all
+- pkg:deb/debian/squid-common@7.1-1?arch=all

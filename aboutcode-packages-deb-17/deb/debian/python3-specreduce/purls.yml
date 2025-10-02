@@ -1,0 +1,3 @@
+- pkg:deb/debian/python3-specreduce@1.3.0-1?arch=all
+- pkg:deb/debian/python3-specreduce@1.5.1-1?arch=all
+- pkg:deb/debian/python3-specreduce@1.6.0-2?arch=all

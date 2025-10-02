@@ -1,0 +1,5 @@
+- pkg:deb/debian/streamlink@2.0.0-1?arch=all
+- pkg:deb/debian/streamlink@5.2.1-1?arch=all
+- pkg:deb/debian/streamlink@7.3.0-2?arch=all
+- pkg:deb/debian/streamlink@7.3.0-2~bpo12%2B1?arch=all
+- pkg:deb/debian/streamlink@7.6.0-1?arch=all

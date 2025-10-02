@@ -1,0 +1,9 @@
+- pkg:deb/debian/libsoqt620@1.6.3%2Bds1-2?arch=amd64
+- pkg:deb/debian/libsoqt620@1.6.3%2Bds1-2?arch=arm64
+- pkg:deb/debian/libsoqt620@1.6.3%2Bds1-2?arch=armel
+- pkg:deb/debian/libsoqt620@1.6.3%2Bds1-2?arch=armhf
+- pkg:deb/debian/libsoqt620@1.6.3%2Bds1-2?arch=i386
+- pkg:deb/debian/libsoqt620@1.6.3%2Bds1-2?arch=mips64el
+- pkg:deb/debian/libsoqt620@1.6.3%2Bds1-2?arch=ppc64el
+- pkg:deb/debian/libsoqt620@1.6.3%2Bds1-2?arch=riscv64
+- pkg:deb/debian/libsoqt620@1.6.3%2Bds1-2?arch=s390x
