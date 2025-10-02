@@ -1,0 +1,4 @@
+- pkg:deb/debian/php-json-schema@5.2.10-2?arch=all
+- pkg:deb/debian/php-json-schema@5.2.12-2?arch=all
+- pkg:deb/debian/php-json-schema@6.4.1-1?arch=all
+- pkg:deb/debian/php-json-schema@6.5.2-1?arch=all
