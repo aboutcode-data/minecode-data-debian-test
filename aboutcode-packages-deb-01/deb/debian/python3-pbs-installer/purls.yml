@@ -1,0 +1,2 @@
+- pkg:deb/debian/python3-pbs-installer@2025.04.09-1?arch=all
+- pkg:deb/debian/python3-pbs-installer@2025.09.18-1?arch=all
