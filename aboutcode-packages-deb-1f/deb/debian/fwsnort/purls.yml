@@ -1,0 +1,2 @@
+- pkg:deb/debian/fwsnort@1.6.8-1?arch=all
+- pkg:deb/debian/fwsnort@1.6.8-2?arch=all
