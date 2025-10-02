@@ -1,0 +1,9 @@
+- pkg:deb/debian/libsignon-qt6-1@8.61%2Bgit20231015.c8ad982-7?arch=amd64
+- pkg:deb/debian/libsignon-qt6-1@8.61%2Bgit20231015.c8ad982-7?arch=arm64
+- pkg:deb/debian/libsignon-qt6-1@8.61%2Bgit20231015.c8ad982-7?arch=armel
+- pkg:deb/debian/libsignon-qt6-1@8.61%2Bgit20231015.c8ad982-7?arch=armhf
+- pkg:deb/debian/libsignon-qt6-1@8.61%2Bgit20231015.c8ad982-7?arch=i386
+- pkg:deb/debian/libsignon-qt6-1@8.61%2Bgit20231015.c8ad982-7?arch=mips64el
+- pkg:deb/debian/libsignon-qt6-1@8.61%2Bgit20231015.c8ad982-7?arch=ppc64el
+- pkg:deb/debian/libsignon-qt6-1@8.61%2Bgit20231015.c8ad982-7?arch=riscv64
+- pkg:deb/debian/libsignon-qt6-1@8.61%2Bgit20231015.c8ad982-7?arch=s390x
