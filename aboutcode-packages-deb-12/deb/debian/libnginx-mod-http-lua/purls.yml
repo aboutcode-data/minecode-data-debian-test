@@ -21,3 +21,7 @@
 - pkg:deb/debian/libnginx-mod-http-lua@0.10.28-3?arch=mips64el
 - pkg:deb/debian/libnginx-mod-http-lua@0.10.28-3?arch=riscv64
 - pkg:deb/debian/libnginx-mod-http-lua@0.10.28-3?arch=s390x
+- pkg:deb/debian/libnginx-mod-http-lua@1.18.0-6.1%2Bdeb11u3?arch=amd64
+- pkg:deb/debian/libnginx-mod-http-lua@1.18.0-6.1%2Bdeb11u3?arch=arm64
+- pkg:deb/debian/libnginx-mod-http-lua@1.18.0-6.1%2Bdeb11u3?arch=armhf
+- pkg:deb/debian/libnginx-mod-http-lua@1.18.0-6.1%2Bdeb11u3?arch=i386

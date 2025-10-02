@@ -16,3 +16,7 @@
 - pkg:deb/debian/libretro-nestopia@1.53.0%2B20250119.git5b56b6b-1?arch=ppc64el
 - pkg:deb/debian/libretro-nestopia@1.53.0%2B20250119.git5b56b6b-1?arch=riscv64
 - pkg:deb/debian/libretro-nestopia@1.53.0%2B20250119.git5b56b6b-1?arch=s390x
+- pkg:deb/debian/libretro-nestopia@1.50-2?arch=amd64
+- pkg:deb/debian/libretro-nestopia@1.50-2?arch=arm64
+- pkg:deb/debian/libretro-nestopia@1.50-2?arch=armhf
+- pkg:deb/debian/libretro-nestopia@1.50-2?arch=i386

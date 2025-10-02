@@ -1,0 +1,2 @@
+- pkg:deb/debian/netsurf-common@3.10-1?arch=all
+- pkg:deb/debian/netsurf-common@3.11-2?arch=all

@@ -1,0 +1,4 @@
+- pkg:deb/debian/neurodebian-freeze@0.41.0?arch=all
+- pkg:deb/debian/neurodebian-freeze@0.41.2%2Bnmu1?arch=all
+- pkg:deb/debian/neurodebian-freeze@0.42.2?arch=all
+- pkg:deb/debian/neurodebian-freeze@0.42.3?arch=all

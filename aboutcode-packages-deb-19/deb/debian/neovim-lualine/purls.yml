@@ -1,0 +1,2 @@
+- pkg:deb/debian/neovim-lualine@0.0.6%2Bgit20250412-1?arch=all
+- pkg:deb/debian/neovim-lualine@0.0.6%2Bgit20250812-1?arch=all
