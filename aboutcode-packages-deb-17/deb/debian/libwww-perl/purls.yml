@@ -1,0 +1,4 @@
+- pkg:deb/debian/libwww-perl@6.52-1?arch=all
+- pkg:deb/debian/libwww-perl@6.68-1?arch=all
+- pkg:deb/debian/libwww-perl@6.78-1?arch=all
+- pkg:deb/debian/libwww-perl@6.80-1?arch=all

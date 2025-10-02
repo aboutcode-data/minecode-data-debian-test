@@ -1,0 +1,4 @@
+- pkg:deb/debian/elpa-git-commit@2.99.0.git0957.ge8c7bd03-1?arch=all
+- pkg:deb/debian/elpa-git-commit@3.3.0-2?arch=all
+- pkg:deb/debian/elpa-git-commit@4.3.5-1?arch=all
+- pkg:deb/debian/elpa-git-commit@4.3.8-1?arch=all
