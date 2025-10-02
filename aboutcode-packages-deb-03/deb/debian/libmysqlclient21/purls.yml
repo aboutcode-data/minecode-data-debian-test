@@ -1,0 +1,8 @@
+- pkg:deb/debian/libmysqlclient21@8.0.43-3?arch=amd64
+- pkg:deb/debian/libmysqlclient21@8.0.43-3?arch=arm64
+- pkg:deb/debian/libmysqlclient21@8.0.43-3?arch=armhf
+- pkg:deb/debian/libmysqlclient21@8.0.43-3?arch=i386
+- pkg:deb/debian/libmysqlclient21@8.0.43-3?arch=mips64el
+- pkg:deb/debian/libmysqlclient21@8.0.43-3?arch=ppc64el
+- pkg:deb/debian/libmysqlclient21@8.0.43-3?arch=riscv64
+- pkg:deb/debian/libmysqlclient21@8.0.43-3?arch=s390x

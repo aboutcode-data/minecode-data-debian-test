@@ -1,0 +1,3 @@
+- pkg:deb/debian/mypaint-data@2.0.1-12?arch=all
+- pkg:deb/debian/mypaint-data@2.0.1-2?arch=all
+- pkg:deb/debian/mypaint-data@2.0.1-9?arch=all
