@@ -1,0 +1,4 @@
+- pkg:deb/debian/ecbuild@3.10.0-1?arch=all
+- pkg:deb/debian/ecbuild@3.11.0-3?arch=all
+- pkg:deb/debian/ecbuild@3.4.1-1?arch=all
+- pkg:deb/debian/ecbuild@3.7.1-1?arch=all

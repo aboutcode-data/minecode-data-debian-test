@@ -1,0 +1,2 @@
+- pkg:deb/debian/libeclipse-osgi-java@3.18.200%2Beclipse4.26-4?arch=all
+- pkg:deb/debian/libeclipse-osgi-java@3.18.500%2Beclipse4.29-2?arch=all

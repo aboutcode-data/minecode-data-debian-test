@@ -1,0 +1,2 @@
+- pkg:deb/debian/elpa-cmake-mode@3.25.1%2Bds-2?arch=all
+- pkg:deb/debian/elpa-cmake-mode@4.0.1%2Bds-1?arch=all

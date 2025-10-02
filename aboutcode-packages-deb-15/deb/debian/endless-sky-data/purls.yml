@@ -1,0 +1,5 @@
+- pkg:deb/debian/endless-sky-data@0.10.10-1?arch=all
+- pkg:deb/debian/endless-sky-data@0.10.14-1?arch=all
+- pkg:deb/debian/endless-sky-data@0.10.4-1?arch=all
+- pkg:deb/debian/endless-sky-data@0.9.8-1.1?arch=all
+- pkg:deb/debian/endless-sky-data@0.9.8-1.2?arch=all

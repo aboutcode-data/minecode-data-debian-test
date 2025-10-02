@@ -1,0 +1,2 @@
+- pkg:deb/debian/libequinox-bidi-java@1.4.200%2Beclipse4.26-4?arch=all
+- pkg:deb/debian/libequinox-bidi-java@1.4.300%2Beclipse4.29-2?arch=all

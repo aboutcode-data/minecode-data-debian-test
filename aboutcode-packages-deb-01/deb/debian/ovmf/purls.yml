@@ -1,0 +1,5 @@
+- pkg:deb/debian/ovmf@2020.11-2%2Bdeb11u2?arch=all
+- pkg:deb/debian/ovmf@2022.11-6%2Bdeb12u2?arch=all
+- pkg:deb/debian/ovmf@2025.02-10?arch=all
+- pkg:deb/debian/ovmf@2025.02-8?arch=all
+- pkg:deb/debian/ovmf@2025.02-9?arch=all

@@ -1,0 +1,2 @@
+- pkg:deb/debian/libequinox-common-java@3.17.0%2Beclipse4.26-4?arch=all
+- pkg:deb/debian/libequinox-common-java@3.18.100%2Beclipse4.29-2?arch=all

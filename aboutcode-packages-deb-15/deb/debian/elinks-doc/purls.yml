@@ -1,0 +1,2 @@
+- pkg:deb/debian/elinks-doc@0.13.2-1?arch=all
+- pkg:deb/debian/elinks-doc@0.18.0-1?arch=all
