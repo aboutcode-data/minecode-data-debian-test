@@ -1,0 +1,3 @@
+- pkg:deb/debian/buildbot@2.10.1-1?arch=all
+- pkg:deb/debian/buildbot@3.7.0-2?arch=all
+- pkg:deb/debian/buildbot@4.2.1-1?arch=all

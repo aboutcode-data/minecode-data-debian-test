@@ -1,0 +1,10 @@
+- pkg:deb/debian/cairo-5c@1.21?arch=all
+- pkg:deb/debian/cairo-5c@1.22?arch=amd64
+- pkg:deb/debian/cairo-5c@1.22?arch=arm64
+- pkg:deb/debian/cairo-5c@1.22?arch=armel
+- pkg:deb/debian/cairo-5c@1.22?arch=armhf
+- pkg:deb/debian/cairo-5c@1.22?arch=i386
+- pkg:deb/debian/cairo-5c@1.22?arch=mips64el
+- pkg:deb/debian/cairo-5c@1.22?arch=ppc64el
+- pkg:deb/debian/cairo-5c@1.22?arch=riscv64
+- pkg:deb/debian/cairo-5c@1.22?arch=s390x
