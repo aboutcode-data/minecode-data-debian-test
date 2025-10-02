@@ -1,0 +1,2 @@
+- pkg:deb/debian/liblucene3-contrib-java@3.6.2%2Bdfsg-24?arch=all
+- pkg:deb/debian/liblucene3-contrib-java@3.6.2%2Bdfsg-26?arch=all

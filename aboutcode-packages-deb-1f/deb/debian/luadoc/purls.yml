@@ -1,0 +1,3 @@
+- pkg:deb/debian/luadoc@3.0.1%2Bgitdb9e868-1.1?arch=all
+- pkg:deb/debian/luadoc@3.0.1%2Bgitdb9e868-2?arch=all
+- pkg:deb/debian/luadoc@3.0.1%2Bgitz20160106.51577bf-1?arch=all
