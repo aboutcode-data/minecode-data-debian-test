@@ -1,0 +1,2 @@
+- pkg:deb/debian/asahi-audio@3.3-1?arch=arm64
+- pkg:deb/debian/asahi-audio@3.4-2?arch=arm64

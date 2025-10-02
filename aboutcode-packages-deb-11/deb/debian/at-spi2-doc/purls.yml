@@ -1,0 +1,6 @@
+- pkg:deb/debian/at-spi2-doc@2.38.0-4%2Bdeb11u1?arch=all
+- pkg:deb/debian/at-spi2-doc@2.46.0-5?arch=all
+- pkg:deb/debian/at-spi2-doc@2.56.2-1?arch=all
+- pkg:deb/debian/at-spi2-doc@2.56.2-1~bpo12%2B1?arch=all
+- pkg:deb/debian/at-spi2-doc@2.58.0-1?arch=all
+- pkg:deb/debian/at-spi2-doc@2.58.0-1~bpo13%2B1?arch=all

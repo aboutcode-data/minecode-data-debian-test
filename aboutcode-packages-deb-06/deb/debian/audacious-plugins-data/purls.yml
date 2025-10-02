@@ -1,0 +1,5 @@
+- pkg:deb/debian/audacious-plugins-data@4.0.5-1?arch=all
+- pkg:deb/debian/audacious-plugins-data@4.2-1?arch=all
+- pkg:deb/debian/audacious-plugins-data@4.4.2-2?arch=all
+- pkg:deb/debian/audacious-plugins-data@4.4.2-3?arch=all
+- pkg:deb/debian/audacious-plugins-data@4.4.2-4?arch=all
