@@ -1,0 +1,5 @@
+- pkg:deb/debian/powder@118%2Bdfsg1-3?arch=amd64
+- pkg:deb/debian/powder@118%2Bdfsg1-3?arch=arm64
+- pkg:deb/debian/powder@118%2Bdfsg1-3?arch=armhf
+- pkg:deb/debian/powder@118%2Bdfsg1-4?arch=amd64
+- pkg:deb/debian/powder@118%2Bdfsg1-4?arch=arm64
