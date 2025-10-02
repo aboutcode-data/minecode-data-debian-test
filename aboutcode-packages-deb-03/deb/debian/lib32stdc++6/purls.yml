@@ -4,3 +4,6 @@
 - pkg:deb/debian/lib32stdc%2B%2B6@12.2.0-14%2Bdeb12u1?arch=s390x
 - pkg:deb/debian/lib32stdc%2B%2B6@14.2.0-19?arch=amd64
 - pkg:deb/debian/lib32stdc%2B%2B6@14.2.0-19?arch=s390x
+- pkg:deb/debian/lib32stdc%2B%2B6@15.2.0-4?arch=amd64
+- pkg:deb/debian/lib32stdc%2B%2B6@15.2.0-4?arch=mips64el
+- pkg:deb/debian/lib32stdc%2B%2B6@15.2.0-4?arch=s390x

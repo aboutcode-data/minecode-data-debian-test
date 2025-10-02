@@ -4,3 +4,6 @@
 - pkg:deb/debian/lib32gfortran5@12.2.0-14%2Bdeb12u1?arch=s390x
 - pkg:deb/debian/lib32gfortran5@14.2.0-19?arch=amd64
 - pkg:deb/debian/lib32gfortran5@14.2.0-19?arch=s390x
+- pkg:deb/debian/lib32gfortran5@15.2.0-4?arch=amd64
+- pkg:deb/debian/lib32gfortran5@15.2.0-4?arch=mips64el
+- pkg:deb/debian/lib32gfortran5@15.2.0-4?arch=s390x

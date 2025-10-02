@@ -7,3 +7,7 @@
 - pkg:deb/debian/liblsan0@14.2.0-19?arch=arm64
 - pkg:deb/debian/liblsan0@14.2.0-19?arch=ppc64el
 - pkg:deb/debian/liblsan0@14.2.0-19?arch=riscv64
+- pkg:deb/debian/liblsan0@15.2.0-4?arch=amd64
+- pkg:deb/debian/liblsan0@15.2.0-4?arch=arm64
+- pkg:deb/debian/liblsan0@15.2.0-4?arch=ppc64el
+- pkg:deb/debian/liblsan0@15.2.0-4?arch=riscv64

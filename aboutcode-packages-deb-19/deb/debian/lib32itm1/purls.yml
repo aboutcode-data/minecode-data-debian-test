@@ -3,3 +3,5 @@
 - pkg:deb/debian/lib32itm1@12.2.0-14%2Bdeb12u1?arch=s390x
 - pkg:deb/debian/lib32itm1@14.2.0-19?arch=amd64
 - pkg:deb/debian/lib32itm1@14.2.0-19?arch=s390x
+- pkg:deb/debian/lib32itm1@15.2.0-4?arch=amd64
+- pkg:deb/debian/lib32itm1@15.2.0-4?arch=s390x

@@ -1,1 +1,2 @@
 - pkg:deb/debian/libasan8-ppc64-cross@12.2.0-13cross1?arch=all
+- pkg:deb/debian/libasan8-ppc64-cross@14.2.0-19cross1?arch=all

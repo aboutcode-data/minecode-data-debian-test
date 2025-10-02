@@ -17,3 +17,11 @@
 - pkg:deb/debian/libubsan1@14.2.0-19?arch=ppc64el
 - pkg:deb/debian/libubsan1@14.2.0-19?arch=riscv64
 - pkg:deb/debian/libubsan1@14.2.0-19?arch=s390x
+- pkg:deb/debian/libubsan1@15.2.0-4?arch=amd64
+- pkg:deb/debian/libubsan1@15.2.0-4?arch=arm64
+- pkg:deb/debian/libubsan1@15.2.0-4?arch=armel
+- pkg:deb/debian/libubsan1@15.2.0-4?arch=armhf
+- pkg:deb/debian/libubsan1@15.2.0-4?arch=i386
+- pkg:deb/debian/libubsan1@15.2.0-4?arch=ppc64el
+- pkg:deb/debian/libubsan1@15.2.0-4?arch=riscv64
+- pkg:deb/debian/libubsan1@15.2.0-4?arch=s390x

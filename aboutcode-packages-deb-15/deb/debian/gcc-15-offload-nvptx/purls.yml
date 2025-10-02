@@ -1,0 +1,3 @@
+- pkg:deb/debian/gcc-15-offload-nvptx@15.2.0-4?arch=amd64
+- pkg:deb/debian/gcc-15-offload-nvptx@15.2.0-4?arch=arm64
+- pkg:deb/debian/gcc-15-offload-nvptx@15.2.0-4?arch=ppc64el

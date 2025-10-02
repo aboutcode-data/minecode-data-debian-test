@@ -4,3 +4,6 @@
 - pkg:deb/debian/libgomp-plugin-nvptx1@14.2.0-19?arch=amd64
 - pkg:deb/debian/libgomp-plugin-nvptx1@14.2.0-19?arch=arm64
 - pkg:deb/debian/libgomp-plugin-nvptx1@14.2.0-19?arch=ppc64el
+- pkg:deb/debian/libgomp-plugin-nvptx1@15.2.0-4?arch=amd64
+- pkg:deb/debian/libgomp-plugin-nvptx1@15.2.0-4?arch=arm64
+- pkg:deb/debian/libgomp-plugin-nvptx1@15.2.0-4?arch=ppc64el
