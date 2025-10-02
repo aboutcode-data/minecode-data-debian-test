@@ -1,0 +1,2 @@
+- pkg:deb/debian/redict@7.3.5%2Bds-1?arch=all
+- pkg:deb/debian/redict@7.3.5%2Bds-1~bpo12%2B1?arch=all

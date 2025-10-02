@@ -1,0 +1,9 @@
+- pkg:deb/debian/librdkit1t64@202503.1-4?arch=amd64
+- pkg:deb/debian/librdkit1t64@202503.1-4?arch=arm64
+- pkg:deb/debian/librdkit1t64@202503.1-4?arch=ppc64el
+- pkg:deb/debian/librdkit1t64@202503.1-4?arch=riscv64
+- pkg:deb/debian/librdkit1t64@202503.1-5?arch=amd64
+- pkg:deb/debian/librdkit1t64@202503.1-5?arch=arm64
+- pkg:deb/debian/librdkit1t64@202503.1-5?arch=mips64el
+- pkg:deb/debian/librdkit1t64@202503.1-5?arch=ppc64el
+- pkg:deb/debian/librdkit1t64@202503.1-5?arch=riscv64
