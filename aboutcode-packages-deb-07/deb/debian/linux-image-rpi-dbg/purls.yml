@@ -1,0 +1,7 @@
+- pkg:deb/debian/linux-image-rpi-dbg@6.1.148-1?arch=armel
+- pkg:deb/debian/linux-image-rpi-dbg@6.1.153-1?arch=armel
+- pkg:deb/debian/linux-image-rpi-dbg@6.12.43-1?arch=armel
+- pkg:deb/debian/linux-image-rpi-dbg@6.12.43-1~bpo12%2B1?arch=armel
+- pkg:deb/debian/linux-image-rpi-dbg@6.12.48-1?arch=armel
+- pkg:deb/debian/linux-image-rpi-dbg@6.16.3-1~bpo13%2B1?arch=armel
+- pkg:deb/debian/linux-image-rpi-dbg@6.16.9-1?arch=armel

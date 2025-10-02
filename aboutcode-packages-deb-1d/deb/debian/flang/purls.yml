@@ -1,0 +1,5 @@
+- pkg:deb/debian/flang@19.0-61?arch=mips64el
+- pkg:deb/debian/flang@19.0-63?arch=amd64
+- pkg:deb/debian/flang@19.0-63?arch=arm64
+- pkg:deb/debian/flang@19.0-63?arch=ppc64el
+- pkg:deb/debian/flang@19.0-63?arch=riscv64
