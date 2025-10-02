@@ -1,0 +1,4 @@
+- pkg:deb/debian/libvirt-l10n@11.3.0-2~bpo12%2B1?arch=all
+- pkg:deb/debian/libvirt-l10n@11.3.0-3?arch=all
+- pkg:deb/debian/libvirt-l10n@11.7.0-1?arch=all
+- pkg:deb/debian/libvirt-l10n@9.0.0-4%2Bdeb12u2?arch=all

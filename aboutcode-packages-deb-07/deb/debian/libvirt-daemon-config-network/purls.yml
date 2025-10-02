@@ -1,0 +1,5 @@
+- pkg:deb/debian/libvirt-daemon-config-network@11.3.0-2~bpo12%2B1?arch=all
+- pkg:deb/debian/libvirt-daemon-config-network@11.3.0-3?arch=all
+- pkg:deb/debian/libvirt-daemon-config-network@11.7.0-1?arch=all
+- pkg:deb/debian/libvirt-daemon-config-network@7.0.0-3%2Bdeb11u3?arch=all
+- pkg:deb/debian/libvirt-daemon-config-network@9.0.0-4%2Bdeb12u2?arch=all

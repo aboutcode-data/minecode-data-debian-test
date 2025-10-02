@@ -1,0 +1,10 @@
+- pkg:deb/debian/libvirt-daemon-driver-vbox@11.3.0-2~bpo12%2B1?arch=amd64
+- pkg:deb/debian/libvirt-daemon-driver-vbox@11.3.0-2~bpo12%2B1?arch=i386
+- pkg:deb/debian/libvirt-daemon-driver-vbox@11.3.0-3?arch=amd64
+- pkg:deb/debian/libvirt-daemon-driver-vbox@11.3.0-3?arch=i386
+- pkg:deb/debian/libvirt-daemon-driver-vbox@11.7.0-1%2Bb1?arch=amd64
+- pkg:deb/debian/libvirt-daemon-driver-vbox@11.7.0-1%2Bb1?arch=i386
+- pkg:deb/debian/libvirt-daemon-driver-vbox@7.0.0-3%2Bdeb11u3?arch=amd64
+- pkg:deb/debian/libvirt-daemon-driver-vbox@7.0.0-3%2Bdeb11u3?arch=i386
+- pkg:deb/debian/libvirt-daemon-driver-vbox@9.0.0-4%2Bdeb12u2?arch=amd64
+- pkg:deb/debian/libvirt-daemon-driver-vbox@9.0.0-4%2Bdeb12u2?arch=i386
