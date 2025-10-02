@@ -1,0 +1,5 @@
+- pkg:deb/debian/mini-buildd@2.2.8?arch=all
+- pkg:deb/debian/mini-buildd@2.2.8~bpo12%2B1?arch=all
+- pkg:deb/debian/mini-buildd@2.4.4?arch=all
+- pkg:deb/debian/mini-buildd@2.4.4~bpo13%2B1?arch=all
+- pkg:deb/debian/mini-buildd@2.5.0?arch=all

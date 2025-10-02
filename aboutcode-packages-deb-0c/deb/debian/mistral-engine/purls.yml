@@ -1,0 +1,5 @@
+- pkg:deb/debian/mistral-engine@11.0.0-2?arch=all
+- pkg:deb/debian/mistral-engine@15.0.0-1?arch=all
+- pkg:deb/debian/mistral-engine@20.0.0-2?arch=all
+- pkg:deb/debian/mistral-engine@21.0.0~rc1-1?arch=all
+- pkg:deb/debian/mistral-engine@21.0.0~rc1-2?arch=all

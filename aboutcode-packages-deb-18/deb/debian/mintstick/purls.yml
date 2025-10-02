@@ -1,0 +1,2 @@
+- pkg:deb/debian/mintstick@1.5.5-1?arch=all
+- pkg:deb/debian/mintstick@1.6.3-1?arch=all

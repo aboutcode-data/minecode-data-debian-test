@@ -1,0 +1,2 @@
+- pkg:deb/debian/mobian-archive-keyring@20230202.0%2Bdeb12u1?arch=all
+- pkg:deb/debian/mobian-archive-keyring@20250408.0?arch=all

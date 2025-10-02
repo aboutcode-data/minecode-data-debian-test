@@ -1,0 +1,12 @@
+- pkg:deb/debian/mindthegap@2.2.2-2?arch=amd64
+- pkg:deb/debian/mindthegap@2.2.2-2?arch=arm64
+- pkg:deb/debian/mindthegap@2.2.2-2?arch=i386
+- pkg:deb/debian/mindthegap@2.3.0-2?arch=amd64
+- pkg:deb/debian/mindthegap@2.3.0-2?arch=arm64
+- pkg:deb/debian/mindthegap@2.3.0-2?arch=mips64el
+- pkg:deb/debian/mindthegap@2.3.0-2?arch=ppc64el
+- pkg:deb/debian/mindthegap@2.3.0-4%2Bb1?arch=amd64
+- pkg:deb/debian/mindthegap@2.3.0-4%2Bb1?arch=arm64
+- pkg:deb/debian/mindthegap@2.3.0-4%2Bb1?arch=mips64el
+- pkg:deb/debian/mindthegap@2.3.0-4%2Bb1?arch=ppc64el
+- pkg:deb/debian/mindthegap@2.3.0-4%2Bb1?arch=riscv64
