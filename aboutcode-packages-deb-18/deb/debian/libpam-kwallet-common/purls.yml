@@ -1,0 +1,3 @@
+- pkg:deb/debian/libpam-kwallet-common@5.20.5-1?arch=all
+- pkg:deb/debian/libpam-kwallet-common@5.27.5-2?arch=all
+- pkg:deb/debian/libpam-kwallet-common@6.3.4-1?arch=all
