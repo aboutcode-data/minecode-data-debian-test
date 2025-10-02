@@ -1,0 +1,3 @@
+- pkg:deb/debian/libmetacpan-client-perl@2.029000-1?arch=all
+- pkg:deb/debian/libmetacpan-client-perl@2.030000-2?arch=all
+- pkg:deb/debian/libmetacpan-client-perl@2.033000-1?arch=all
