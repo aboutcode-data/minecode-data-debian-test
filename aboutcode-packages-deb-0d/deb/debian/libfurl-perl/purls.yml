@@ -1,0 +1,2 @@
+- pkg:deb/debian/libfurl-perl@3.13-2?arch=all
+- pkg:deb/debian/libfurl-perl@3.14-2?arch=all
