@@ -1,0 +1,3 @@
+- pkg:deb/debian/peewee@3.14.1%2Bdfsg-1?arch=all
+- pkg:deb/debian/peewee@3.14.10%2Bdfsg-1?arch=all
+- pkg:deb/debian/peewee@3.17.7%2Bdfsg-1?arch=all

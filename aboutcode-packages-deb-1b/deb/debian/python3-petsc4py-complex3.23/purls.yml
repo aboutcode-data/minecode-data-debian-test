@@ -1,0 +1,9 @@
+- pkg:deb/debian/python3-petsc4py-complex3.23@3.23.1-1exp2?arch=amd64
+- pkg:deb/debian/python3-petsc4py-complex3.23@3.23.1-1exp2?arch=arm64
+- pkg:deb/debian/python3-petsc4py-complex3.23@3.23.1-1exp2?arch=armel
+- pkg:deb/debian/python3-petsc4py-complex3.23@3.23.1-1exp2?arch=armhf
+- pkg:deb/debian/python3-petsc4py-complex3.23@3.23.1-1exp2?arch=i386
+- pkg:deb/debian/python3-petsc4py-complex3.23@3.23.1-1exp2?arch=mips64el
+- pkg:deb/debian/python3-petsc4py-complex3.23@3.23.1-1exp2?arch=ppc64el
+- pkg:deb/debian/python3-petsc4py-complex3.23@3.23.1-1exp2?arch=riscv64
+- pkg:deb/debian/python3-petsc4py-complex3.23@3.23.1-1exp2?arch=s390x

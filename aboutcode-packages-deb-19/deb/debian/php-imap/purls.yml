@@ -1,0 +1,2 @@
+- pkg:deb/debian/php-imap@7.4%2B76?arch=all
+- pkg:deb/debian/php-imap@8.2%2B93?arch=all

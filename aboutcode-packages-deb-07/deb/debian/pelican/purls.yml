@@ -1,0 +1,3 @@
+- pkg:deb/debian/pelican@4.0.1%2Bdfsg-1.1?arch=all
+- pkg:deb/debian/pelican@4.11.0%2Bdfsg-1?arch=all
+- pkg:deb/debian/pelican@4.8.0%2Bdfsg-1?arch=all

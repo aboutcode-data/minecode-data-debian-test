@@ -1,0 +1,2 @@
+- pkg:deb/debian/pd-pduino@0.7-2?arch=all
+- pkg:deb/debian/pd-pduino@0.8-4?arch=all
