@@ -1,0 +1,5 @@
+- pkg:deb/debian/dekko@0.4.1%2Bdfsg-8?arch=amd64
+- pkg:deb/debian/dekko@0.4.1%2Bdfsg-8?arch=arm64
+- pkg:deb/debian/dekko@0.4.1%2Bdfsg-8?arch=armhf
+- pkg:deb/debian/dekko@0.4.1%2Bdfsg-8?arch=i386
+- pkg:deb/debian/dekko@0.4.1%2Bdfsg-8?arch=mips64el
