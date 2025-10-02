@@ -1,0 +1,2 @@
+- pkg:deb/debian/golang-github-deckarep-golang-set-dev@1.5-2?arch=all
+- pkg:deb/debian/golang-github-deckarep-golang-set-dev@2.7.0-1?arch=all
