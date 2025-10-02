@@ -1,0 +1,4 @@
+- pkg:deb/debian/xbase-clients@7.7%2B22?arch=all
+- pkg:deb/debian/xbase-clients@7.7%2B23?arch=all
+- pkg:deb/debian/xbase-clients@7.7%2B24?arch=all
+- pkg:deb/debian/xbase-clients@7.7%2B25?arch=all
