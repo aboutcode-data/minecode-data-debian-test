@@ -1,0 +1,2 @@
+- pkg:deb/debian/ruby-json-schema@2.8.1-2?arch=all
+- pkg:deb/debian/ruby-json-schema@2.8.1-4?arch=all
