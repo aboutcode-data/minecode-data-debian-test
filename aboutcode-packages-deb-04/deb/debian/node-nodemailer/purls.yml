@@ -1,0 +1,5 @@
+- pkg:deb/debian/node-nodemailer@6.10.0%2B~6.4.17-1?arch=all
+- pkg:deb/debian/node-nodemailer@6.4.17-3?arch=all
+- pkg:deb/debian/node-nodemailer@6.8.0%2B~6.4.6-1?arch=all
+- pkg:deb/debian/node-nodemailer@7.0.5%2B~7.0.1-1?arch=all
+- pkg:deb/debian/node-nodemailer@7.0.6%2B~7.0.1-1?arch=all

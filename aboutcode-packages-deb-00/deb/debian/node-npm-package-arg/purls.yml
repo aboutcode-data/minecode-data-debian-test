@@ -1,0 +1,2 @@
+- pkg:deb/debian/node-npm-package-arg@10.0.0%2B~3.0.0-2?arch=all
+- pkg:deb/debian/node-npm-package-arg@8.1.0-1?arch=all

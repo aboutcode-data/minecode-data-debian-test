@@ -1,0 +1,9 @@
+- pkg:deb/debian/node-node-pty@1.0.0%2Bds1%2B~6.3.0-1%2Bb2?arch=amd64
+- pkg:deb/debian/node-node-pty@1.0.0%2Bds1%2B~6.3.0-1%2Bb2?arch=armel
+- pkg:deb/debian/node-node-pty@1.0.0%2Bds1%2B~6.3.0-1%2Bb2?arch=armhf
+- pkg:deb/debian/node-node-pty@1.0.0%2Bds1%2B~6.3.0-1%2Bb2?arch=mips64el
+- pkg:deb/debian/node-node-pty@1.0.0%2Bds1%2B~6.3.0-1%2Bb2?arch=ppc64el
+- pkg:deb/debian/node-node-pty@1.0.0%2Bds1%2B~6.3.0-1%2Bb2?arch=riscv64
+- pkg:deb/debian/node-node-pty@1.0.0%2Bds1%2B~6.3.0-1%2Bb2?arch=s390x
+- pkg:deb/debian/node-node-pty@1.0.0%2Bds1%2B~6.3.0-1%2Bb3?arch=arm64
+- pkg:deb/debian/node-node-pty@1.0.0%2Bds1%2B~6.3.0-1%2Bb3?arch=i386
