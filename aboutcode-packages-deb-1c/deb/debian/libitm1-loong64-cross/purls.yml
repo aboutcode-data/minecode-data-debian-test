@@ -1,1 +1,2 @@
 - pkg:deb/debian/libitm1-loong64-cross@14.2.0-19cross1?arch=all
+- pkg:deb/debian/libitm1-loong64-cross@15.2.0-4cross1?arch=all

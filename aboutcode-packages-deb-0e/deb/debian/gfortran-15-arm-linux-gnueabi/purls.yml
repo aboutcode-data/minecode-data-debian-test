@@ -1,1 +1,5 @@
 - pkg:deb/debian/gfortran-15-arm-linux-gnueabi@15.2.0-4?arch=armel
+- pkg:deb/debian/gfortran-15-arm-linux-gnueabi@15.2.0-4cross1?arch=amd64
+- pkg:deb/debian/gfortran-15-arm-linux-gnueabi@15.2.0-4cross1?arch=arm64
+- pkg:deb/debian/gfortran-15-arm-linux-gnueabi@15.2.0-4cross1?arch=i386
+- pkg:deb/debian/gfortran-15-arm-linux-gnueabi@15.2.0-4cross1?arch=ppc64el
