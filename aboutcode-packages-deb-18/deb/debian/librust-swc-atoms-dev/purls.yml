@@ -1,0 +1,2 @@
+- pkg:deb/debian/librust-swc-atoms-dev@5.0.0%2B22.2.1~ds-1?arch=all
+- pkg:deb/debian/librust-swc-atoms-dev@7.0.0%2B35.0.0~ds-2?arch=all
